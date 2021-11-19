@@ -6,7 +6,7 @@
  </head>
  <body>
   <h1 style="color:green">Personal Details</h1>
-  <img src="student.jpeg">
+  <img src="anjali.jpeg">
   <ul> 
    <li><b>Name:</b>Anjali Gupta</li>
    <li><b>Father's Name:</b>Mr. Sanjay Gupta</li>
